@@ -567,7 +567,7 @@ class _BMIHomePageState extends State<BMIHomePage> {
     if (result == 'Underweight') {
       return 'You may need to gain some weight 💪';
     } else if (result == 'Normal Weight') {
-      return 'Great! You are healthy 😊';
+      return 'Great! You are healthy ❤️';
     } else if (result == 'Overweight') {
       return 'Let\'s work towards a healthier weight 💪';
     } else if (result == 'Obese') {
